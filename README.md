@@ -28,7 +28,7 @@
 
 # 4. 소개 및 시연 영상
 
-youtube link
+[link](https://photos.app.goo.gl/pcNsHxqhUgDR4txm9)
 
 # 5. 사용법
 
