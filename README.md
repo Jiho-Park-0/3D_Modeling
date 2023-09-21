@@ -10,7 +10,7 @@
 
 조창현, mvmarr@naver.com, 데이터 수집 장치 구현 및 길찾기 알고리즘 구현
 
-박지호, jihodayo@gmail.com, Web서버 제작, DB 연동 및 관리
+박지호, jihodayo@gmail.com, Web서버 제작, DB 연동 및 관리 및 데이터 전처리
 
 # 3. 구성도
 
